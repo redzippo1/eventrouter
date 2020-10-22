@@ -46,7 +46,7 @@ data:
     {
       "sink": "kafka",
       "kafkaBrokers": ["172.22.29.201:9092", "172.22.29.202:9092", "172.22.29.203:9092"],
-      "kafkaTopic": "architecture_group",
+      "kafkaTopic": "k8s-event",
       "kafkaSaslUser": "kafka",
       "kafkaSaslPwd": "kafka-uat"
     }
